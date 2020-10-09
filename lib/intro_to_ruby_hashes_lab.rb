@@ -5,7 +5,7 @@ end
 def my_hash
   clothing = {
     tshirt: "small"
-    jeans: "6"
+    sweater: "large"
   }
 end
 
